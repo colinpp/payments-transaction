@@ -26,7 +26,7 @@
 
 ## Description
 
-This payment-service microservice will served payment of order. It will return either the payment is confirmed or declined randomly.
+This payment-service microservice will served payment of ozow orders It will return either the payment is confirmed or declined randomly. as well as oxow object for init
 
 ## Installation
 
